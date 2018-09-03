@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96eb90c8-4c09-40cb-898e-c92b8dc517c2" name="Default" comment="Commit Message">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/.idea/libraries/Arquillian_JUnit_Release.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/junit-4.10.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/software_test1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/src/calframe/CalFrame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/src/calframe/CalService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/src/calframe/MyMath.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/src/calframe/MyMathTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../software_test1/src/calframe/Test.java" />
+    <list default="true" id="96eb90c8-4c09-40cb-898e-c92b8dc517c2" name="Default" comment="SX1716086 陈骏岭">
+      <change beforePath="$PROJECT_DIR$/../software_test1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../software_test1/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -363,8 +351,16 @@
       <workItem from="1535942269092" duration="143000" />
       <workItem from="1535942458730" duration="413000" />
       <workItem from="1535942907248" duration="4565000" />
-      <workItem from="1535981439462" duration="890000" />
+      <workItem from="1535981439462" duration="1347000" />
     </task>
+    <task id="LOCAL-00001" summary="software_test1">
+      <created>1535982368666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535982368666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -379,7 +375,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6011000" />
+    <option name="totallyTimeSpent" value="6468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
@@ -392,12 +388,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -421,7 +417,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
+    <MESSAGE value="software_test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="software_test1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
